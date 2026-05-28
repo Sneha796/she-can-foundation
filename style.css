@@ -4,4 +4,4 @@ img{width: 300px;,border-radius: 10px;}
 
 button{padding: 10px;,background: black; ,color: white; , border:5px; , border-radius: 25px;}
 
-button:hover{background-color: purple; ,cursor: pointer;}
+button:hover{background-color: pink; ,cursor: pointer;}
