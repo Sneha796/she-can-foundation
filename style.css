@@ -2,6 +2,6 @@ body{font-family: Arial;,text-align: center;,background: white;}
 
 img{width: 300px;,border-radius: 10px;}
 
-button{padding: 20px;,background: black; ,color: white;, border:5px;, border-radius: 15px;}
+button{padding: 10px;,background: black; ,color: white;, border:5px;, border-radius: 25px;}
 
-button:hover{background-color: blue; , cursor: pointer;}
+button:hover{background-color: sky blue ; , cursor: pointer;}
