@@ -1,9 +1,7 @@
 body{font-family: Arial;,text-align: center;,background: white;}
 
-header, footer{background: light pink ;,color: white;,padding: 15px;}
-
 img{width: 300px;,border-radius: 10px;}
 
-button{padding: 10px 20px;,background: black;,color: white;,border:5px;,border-radius: 5px;}
+button{padding: 10px 20px;,background: black; ,color: white;, border:5px; ,border-radius: 15px;}
 
 button:hover{background-color: green;, cursor: pointer;}
